@@ -1,0 +1,25 @@
+site_name: Gabe Benavides | Infrastructure
+site_description: Documentation for my personal infrastructure and self-hosted services.
+
+theme:
+  name: material
+
+  palette:
+    - scheme: slate
+      primary: black
+      accent: blue
+
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+docs_dir: documentation
+
+nav:
+  - Home: index.md
+  - VPS Setup: vps-setup.md

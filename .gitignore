@@ -12,3 +12,9 @@
 
 # Logs
 *.log
+
+# Python virtual environment
+.venv/
+
+# MkDocs generated site
+site/
