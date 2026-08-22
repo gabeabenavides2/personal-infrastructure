@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Logs
+*.log
